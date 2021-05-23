@@ -19,7 +19,7 @@
 
 
 
-# Screen Shot:
+# Image:
 ![macOSBigSur](./images/macOSBigSur.png)
 
 
