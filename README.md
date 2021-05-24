@@ -6,7 +6,7 @@
 - Display: Asus 23.8"VZ249H LED RGB
 - GPU: Intel Integrated HD Graphics 630
 - Ethernet: Realtek RTL8111H
-- Audio Adapter: Realtek ALC256 
+- Audio Adapter: Realtek ALC887 
 
 # Working:
 - Intel HD Graphics 630
